@@ -1,1 +1,1 @@
-# machine_learning_phy
+Reinforcement Learning appplying in physics
