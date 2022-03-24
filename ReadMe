@@ -1,5 +1,10 @@
-This has reinforcement learning excercises from Sutton and Burto done in python.
+
+Here we simulate <a href="https://en.wikipedia.org/wiki/Multi-armed_bandit">k-arm bandit problem</a>
+, which is one of the basic reinforcement learning problems. It's a simple excercise which illustrates the exploration-exploitation tradeoff. We  experimented training our agent with greedy (which always maximizes immediate reward) and epsilon-greedy (which mostly maximizes immediate reward but also occasionaly takes risk for exploring). 
+
+
+It's take from textbook by Sutton and Barto
+
 The link of the book can be found here:
 http://incompleteideas.net/book/bookdraft2017nov5.pdf
 
-Keywords: jupyter notebook, python, reinforcement learning
