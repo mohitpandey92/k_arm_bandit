@@ -2,6 +2,8 @@
 Here we simulate <a href="https://en.wikipedia.org/wiki/Multi-armed_bandit">k-arm bandit problem</a>
 , which is one of the basic reinforcement learning problems. It's a simple excercise which illustrates the exploration-exploitation tradeoff. We  experimented training our agent with greedy (which always maximizes immediate reward) and epsilon-greedy (which mostly maximizes immediate reward but also occasionaly takes risk for exploring). 
 
+[Link text Here](https://link-url-here.org)
+
 
 It's take from textbook by Sutton and Barto
 
